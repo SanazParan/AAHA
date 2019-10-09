@@ -1,4 +1,6 @@
 # AAHA
 Achieving Affordable Housing Atlanta 
-# This is my Branch
-TESTING 123
+# Read Below
+Please install censusdata (pip install censusdata) (pip install config)
+
+Code will attempt to find table in data folder and otherwise download the table.
